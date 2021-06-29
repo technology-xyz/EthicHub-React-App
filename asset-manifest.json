@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/EthicHub-React-App/static/css/main.73a74c41.chunk.css",
-    "main.js": "/EthicHub-React-App/static/js/main.70fc2e0d.chunk.js",
-    "main.js.map": "/EthicHub-React-App/static/js/main.70fc2e0d.chunk.js.map",
+    "main.js": "/EthicHub-React-App/static/js/main.88259c62.chunk.js",
+    "main.js.map": "/EthicHub-React-App/static/js/main.88259c62.chunk.js.map",
     "runtime-main.js": "/EthicHub-React-App/static/js/runtime-main.95d80556.js",
     "runtime-main.js.map": "/EthicHub-React-App/static/js/runtime-main.95d80556.js.map",
     "static/js/2.5b977f24.chunk.js": "/EthicHub-React-App/static/js/2.5b977f24.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.95d80556.js",
     "static/js/2.5b977f24.chunk.js",
     "static/css/main.73a74c41.chunk.css",
-    "static/js/main.70fc2e0d.chunk.js"
+    "static/js/main.88259c62.chunk.js"
   ]
 }
